@@ -1,0 +1,28 @@
+.gambar {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: calc(0.24rem - 1px);
+}
+.gambar2 {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: calc(0.24rem - 1px);
+}
+
+.desc-height {
+    height: 400px;
+}
+.card-img {
+    width: 100%; /* Sesuaikan tinggi gambar sesuai keinginan */
+    object-fit: cover;
+}
+.gambar-post {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
